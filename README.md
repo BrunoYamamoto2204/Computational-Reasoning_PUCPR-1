@@ -20,7 +20,7 @@ O principal objetivo da matéria foi desenvolver a lógica de programação, uti
 
 ## 🎯 Projeto Final: Gestão de Dados Acadêmicos (CRUD)
 
-Como culminância dos conhecimentos adquiridos, o projeto final da disciplina consiste na criação de um **sistema CRUD (Create – Retrieve – Update – Delete)** para a gestão de dados acadêmicos. Este sistema demonstra a aplicação prática dos conceitos de estruturas de dados, funções, manipulação de arquivos e programação orientada a objetos.
+Para aplicar os conhecimentos adquiridos, o projeto final da disciplina consiste na criação de um **sistema CRUD (Create – Retrieve – Update – Delete)** para a gestão de dados acadêmicos. Este sistema demonstra a aplicação prática dos conceitos de estruturas de dados, funções, manipulação de arquivos e programação orientada a objetos.
 
 ### Funcionalidades:
 * **C**reate (Criar): Adicionar novos registros (ex: alunos, disciplinas).
